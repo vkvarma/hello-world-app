@@ -1,0 +1,79 @@
+
+.parts-calculation-summary {
+    margin: 60px 10px 0px 643px;
+}
+
+.parts-action-panel {
+    float:left;
+    display: flex;
+    flex-direction: column;
+}
+
+.parts-btn {
+    height: 38px;
+    width: 102px;
+    border: none;
+    border-radius: 12px;
+    background-color: #5dadec;
+    margin: 5px 0 10px 0;
+    font-size: medium;
+    text-align: left;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.parts-cart {
+    height: 30px;
+    width: 653px;
+    margin: 5px 0 0 64px;
+    background-color: beige;
+}
+
+.parts-row-heading-container {
+    height: 30px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    margin: 1px 10px 0 10px;
+}
+
+.parts-button-panel {
+    width: 100px;
+    margin-left: 39px;
+}
+
+.ant-layout-sider-children {
+    height: 100%;
+    margin-top: -0.1px;
+    padding-top: 0.1px;
+    background-color: white;
+}
+
+.parts-row-heading {
+    display: flex;
+    flex-direction: row;
+    margin: 1px 90px 0 21px;
+}
+
+.parts-record-panel {
+    display: flex;
+    flex-direction: row;
+}
+
+.parts-field {
+    width: 163px;
+}
+
+.divider-vertical {
+    border-left: 1px solid black;
+    margin-left: 68px;
+    height: 212px;
+}
+
+.parts-container {
+    background-color: beige;
+}
+
+.input-number-class {
+    width: 150px;
+}

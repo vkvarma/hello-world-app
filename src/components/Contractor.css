@@ -1,0 +1,9 @@
+.contractor-row > span {
+    margin: 10px 10px 50px 10px;
+}
+
+div.contractor-grid {
+    margin-left: 44px !important;
+    background-color: beige;
+    width: 686px;
+}

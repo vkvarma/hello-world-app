@@ -1,0 +1,46 @@
+.App {
+    height: 900px;
+    width: 950px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    margin: 50px 50px 50px 170px;
+    align-items: center;
+}
+
+.app-page-layout {
+    height: 900px;
+    width: 948px;
+}
+
+.app-page-content {
+    background-color: beige;
+}
+
+.contractor-section {
+    height: 300px;
+    width: 700px;
+    margin: 0 0 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.parts-cart-section {
+    height: 300px;
+    width: 700px;
+    margin: 0 0 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-page-header {
+    border: 1px solid grey;
+}
+
+.ant-layout {
+    background-color: grey !important;
+}
+
+.ant-layout-footer {
+    background-color: grey !important;
+}
